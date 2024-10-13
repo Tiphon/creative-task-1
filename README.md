@@ -45,3 +45,4 @@ from PIL import Image
 image = Image.open("python.jpeg")
 print(image.format)
 ```
+и мы получим вывод формата
